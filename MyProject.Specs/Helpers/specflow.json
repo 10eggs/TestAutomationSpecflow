@@ -1,0 +1,76 @@
+﻿{
+  "appSettings": {
+    "actual": "https://stage.historic-england.org/",
+
+    "liveUrl": "https://historicengland.org.uk/",
+    "stagingUrl": "https://stage.historic-england.org/",
+    "ArchiveLandingUrl": "https://stage.historic-england.org/images-books/photos/",
+    "TestUrl": "https://stage.historic-england.org/listing/the-list/list-entry/1234567",
+    "HomePageUrl": "https://stage.historic-england.org/admin-section/automation-test-area/automation-testing-home-page/",
+    "adminSection": "https://stage.historic-england.org/admin-section/automation-test-area/automation-test-article/#",
+    "feature": "https://stage-feature.historic-england.org/",
+    "Upgrade 8": "https://umbraco8.historic-england.org/",
+    "UpgradeLive": "https://umbraco8.historicengland.org.uk/",
+    "RegressionBranch": "https://regression.historic-england.org/",
+    "Legacy": "https://legacy.historic-england.org/"
+
+
+
+
+
+  },
+
+  "originPages": {
+    "educationalImgSearch": "services-skills/education/educational-images/",
+    "educational-image-search": "services-skills/education/educational-images/",
+    "aco-search-page": "images-books/photos/",
+    "heritage-highlights-search": "listing/what-is-designation/heritage-highlights/",
+    "adminSection": "admin-section/automation-test-area/automation-test-article/",
+    //Case Study Pages
+    "heritage-planning-search": "advice/hpg/planning-cases/",
+    "education-images-by-theme": "services-skills/education/images-by-theme/",
+    "englands-places-seearch": "images-books/photos/englands-places/",
+    //Gap Search pages
+    "gap-search": "services-skills/grants/visit/",
+    // Heritage at Risk pages
+    "har-advanced-search": "advice/heritage-at-risk/search-register/advanced-search",
+    "har-quick-search": "advice/heritage-at-risk/search-register/",
+    // Admin Page
+    "home-page-test": "admin-section/automation-test-area/automation-testing-home-page/",
+    "article-test": "admin-section/automation-test-area/automation-test-article/",
+    //NHLE Search
+    "nhle-quick-search": "listing/the-list/",
+    "nhle-advanced-search": "listing/the-list/advanced-search",
+    "List Entry 1234567": "/listing/the-list/list-entry/1234567",
+    //Publication Search
+    "publication-search": "images-books/publications/",
+    //Heritage Passport Public  Profile Page (Tomasz Tester)
+    "Pulic Profile Page": "/profile/256106/QWSD3Smith",
+    //Research Report
+    "RR-Search": "/research/results/reports/",
+    //UGC
+    "moderated-UGC-page": "admin-section/automation-test-area/ugc-automated-testing-moderated/",
+    "unmoderated-UGC-page": "admin-section/automation-test-area/ugc-automated-testing-unmoderated/",
+    "gallery-UGC-page": "admin-section/automation-test-area/ugc-automated-testing-galleries/",
+    "replies-UGC-page": "admin-section/automation-test-area/ugc-automated-testing-replies/",
+    "social-media-UGC-page": "admin-section/automation-test-area/ugc-automated-testing-social-media-upload",
+    "UGC Profile Page": "/profile/257774/AutomatedTesting"
+
+
+
+
+
+
+
+
+
+  },
+
+  "browserSettings": {
+    "driver": "ChromeDriver"
+    //To run tests in Firefox comment line 9 and uncomment line 11 
+    //"driver": "FirefoxDriver"
+  }
+}
+ 
+
